@@ -19,7 +19,7 @@ providing visualisations.
 ## How to use the project for gaining valuable insights
 Using *Jupyter Notebook* for the cleaning and visualisation
 
-# Data Cleaning and Manipulation:
+## Data Cleaning and Manipulation:
 PSB major points covered in Data cleaning and manipulation. Details are provided with code in the Jupyter notebook
 1. File reading using read_csv function of pandas library.
 2. Dealing with null values for required columns and dropping the columns where necessary.
